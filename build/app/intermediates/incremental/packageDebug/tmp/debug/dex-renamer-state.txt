@@ -1,0 +1,4 @@
+#Thu Jun 01 16:48:12 UZT 2023
+base.0=D\:\\Coding\\Flutter\\pdpui3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
